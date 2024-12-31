@@ -40,5 +40,15 @@ Welcome to my GitHub profile! I'm a **backend software developer** passionate ab
 
 ---
 
+
+## 📫 Let's Connect
+
+Thanks for visiting my profile! Keep coding and stay curious! 😊\
+If you're interested in collaborating or just want to chat about backend development, APIs, or retail analytics, feel free to reach out!
+
+- [LinkedIn](https://www.linkedin.com/in/eytan-ohana/)
+
+---
+
 Thanks for visiting my profile! Keep coding and stay curious! 😊
 
